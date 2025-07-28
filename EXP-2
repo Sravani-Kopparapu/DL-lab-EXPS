@@ -1,3 +1,5 @@
+2.Design artificial neural networks for identifying and classifying an actor using kaggle dataset
+# celebrity_face_id_dataset
 import os
 import numpy as np
 import matplotlib.pyplot as plt
